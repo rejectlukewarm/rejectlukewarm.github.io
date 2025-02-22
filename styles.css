@@ -1,0 +1,29 @@
+body {
+    margin: 20px;
+}
+
+.navlink {
+    color: #00FFFF; /* Cyan for links */
+    text-decoration: underline;
+}
+
+.navlink:hover {
+    color: #FFFF00; /* Yellow on hover */
+}
+
+hr {
+    border: 1px solid #FF69B4;
+}
+
+marquee {
+    color: #FF69B4;
+}
+
+table td {
+    padding: 20px;
+}
+
+/* Ensure text stays reddish-pink unless overridden */
+font {
+    color: #FF69B4;
+}
